@@ -20,5 +20,7 @@ class DatabaseSeeder extends Seeder
             'email' => 'siswa',
             'password' => Hash::make('siswa'),
         ]);
+
+       
     }
 }
